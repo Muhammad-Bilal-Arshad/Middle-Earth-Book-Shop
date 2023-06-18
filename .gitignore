@@ -1,3 +1,5 @@
+firebaseconfig/
+metro.config/
 node_modules/
 .expo/
 dist/
