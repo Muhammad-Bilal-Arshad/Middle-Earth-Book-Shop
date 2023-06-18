@@ -20,7 +20,7 @@ The Book Shop Project is designed to simplify the management of books and sales 
 ## Features
 
 - Add new books to the inventory
-- View and search for books by title, author, or category
+- View and search for books by title and category
 - Track sales records and view sales history
 - Add new sales records to track book sales
 - User authentication and authorization
@@ -55,4 +55,13 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## ScreenShots
 
 ![Login Page](ScreenShots/login.jpg)
+![SignUp Page](ScreenShots/signup.jpg)
+![Home Page](ScreenShots/main.jpg)
+![Add Book](ScreenShots/addbook.jpg)
+![Edit Book](ScreenShots/bookedit.jpg)
+![View Books](ScreenShots/viewbook.jpg)
+![Book Seach](ScreenShots/viewbooksearch.jpg)
+![Add Sale](ScreenShots/addsale.jpg)
+![View Sale](ScreenShots/viewsale.jpg)
+![View Sale filter](ScreenShots/viewsaledate.jpg)
 
