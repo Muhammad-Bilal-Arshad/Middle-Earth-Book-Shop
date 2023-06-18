@@ -53,15 +53,24 @@ Once the project is up and running, open your expo go app and scan the QR code. 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss them with the project maintainers.
 
 ## ScreenShots
-
+### Login Page
 ![Login Page](ScreenShots/login.jpg)
+### Signup Page
 ![SignUp Page](ScreenShots/signup.jpg)
+### Home Page
 ![Home Page](ScreenShots/main.jpg)
+### Add Book
 ![Add Book](ScreenShots/addbook.jpg)
+### Edit Book
 ![Edit Book](ScreenShots/bookedit.jpg)
+### View Books
 ![View Books](ScreenShots/viewbook.jpg)
+### Book Search
 ![Book Seach](ScreenShots/viewbooksearch.jpg)
+### Add Sale
 ![Add Sale](ScreenShots/addsale.jpg)
+### View Sale
 ![View Sale](ScreenShots/viewsale.jpg)
+### View Sale filter
 ![View Sale filter](ScreenShots/viewsaledate.jpg)
 
